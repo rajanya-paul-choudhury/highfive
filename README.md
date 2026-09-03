@@ -2,6 +2,11 @@
 
 Team project (6 contributors, DECO3500 UQ). I was the top contributor by commits and built the original KitchenKat prototype (HTML/CSS/JS) from scratch, plus contributed to the research, requirements, and future-work documentation.
 
+## Project showcase
+
+Presented at the DECO3500 studio showcase — the prototype running live alongside the research and design process posters.
+<img width="365" height="451" alt="Screenshot 2026-09-03 at 4 37 42 PM" src="https://github.com/user-attachments/assets/0248098e-44b7-4329-b909-ff7c2a20b2cb" />
+
 ## About
 
 HighFive is a social cooking coordination platform developed for **DECO3500 Social & Mobile Computing** at The University of Queensland (Semester 2, 2025). The platform helps students living in shared accommodations plan and share healthy meals together by tackling challenges around time, budget, and coordination.
