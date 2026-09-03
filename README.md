@@ -12,6 +12,8 @@ Presented at the DECO3500 studio showcase — the prototype running live alongsi
 
 HighFive is a social cooking coordination platform developed for **DECO3500 Social & Mobile Computing** at The University of Queensland (Semester 2, 2025). The platform helps students living in shared accommodations plan and share healthy meals together by tackling challenges around time, budget, and coordination.
 
+<img width="1512" height="905" alt="Screenshot 2026-09-03 at 4 43 52 PM" src="https://github.com/user-attachments/assets/da2a5213-c0a2-4d62-8b60-98168b19624a" />
+
 ---
 
 ## How to Run / Use
